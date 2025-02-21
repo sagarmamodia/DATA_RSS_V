@@ -1,32 +1,31 @@
 ## Project Description
 
-    The project utilized various features related to demographics, lifestyle, and psychological factors to assess potential 
-    mental health conditions. The model was trained on a labeled dataset and evaluated using metrics like accuracy and AUC.
-    The goal was to create an accessible tool that could provide preliminary insights into users' mental well-being, aiding 
-    in early detection and awareness.
+The project utilized various features related to demographics, lifestyle, and psychological factors to assess potential 
+mental health conditions. The model was trained on a labeled dataset and evaluated using metrics like accuracy and AUC.
+The goal was to create an accessible tool that could provide preliminary insights into users' mental well-being, aiding 
+in early detection and awareness.
 
 ## Dataset
 
-    Name and source of the dataset used.
-    Data preprocessing steps (if any).
-    Licensing or usage restrictions (if applicable).
+Name and source of the dataset used.
+Data preprocessing steps (if any).
+Licensing or usage restrictions (if applicable).
 
 ## Model Architecture
 
-    Describe the model used (CNN, LSTM, Transformer, etc.).
-    Mention any modifications or optimizations made.
-    Provide a summary of hyperparameters and training settings.
+Describe the model used (CNN, LSTM, Transformer, etc.).
+Mention any modifications or optimizations made.
+Provide a summary of hyperparameters and training settings.
 
 ## Installation
 
-    Steps to set up the project locally.
-    Dependencies and requirements (requirements.txt or environment.yml).
-    Command to create a virtual environment and install dependencies.
-
-## Usage
-
-    Instructions to run the project (training, testing, inference).
-    Sample commands to execute the scripts.
+1. Clone the repository on your local system (git clone)
+2. Install Dependences using
+    `pip install -r requirements.txt`
+4. Copy the test dataset to the directory (let's say it is named test.csv)
+5. Run the following script to get predictions
+    `python predict_mental_health.py test.csv`
+    
 
 ## Evaluation & Performance
 
@@ -34,7 +33,7 @@
     Model performance summary with tables/graphs (if applicable).
     Comparisons with baseline models.
 
-## Deployment (If applicable)
+## Deployment
 
     Details of how the model is deployed (Flask, FastAPI, Streamlit, etc.).
     Instructions to run the web app or API.
