@@ -1,12 +1,9 @@
-## Project Title
-
-    A concise, descriptive title for your project.
-
 ## Project Description
 
-    Briefly explain what the project does.
-    Mention the problem it solves and why it's important.
-    State the key features or objectives.
+    The project utilized various features related to demographics, lifestyle, and psychological factors to assess potential 
+    mental health conditions. The model was trained on a labeled dataset and evaluated using metrics like accuracy and AUC.
+    The goal was to create an accessible tool that could provide preliminary insights into users' mental well-being, aiding 
+    in early detection and awareness.
 
 ## Dataset
 
