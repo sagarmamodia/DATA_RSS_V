@@ -45,25 +45,25 @@ Provide a summary of hyperparameters and training settings.
 
 ## Project Structure
 
-  ├── data/                                 # Raw and processed dataset
-  ├── models/                               # Trained models
-  ├── model_training.ipynb                  # Training notebook
-  ├── predict_mental_health.py/             # predict script
-  ├── README.md                             # Project documentation
-  ├── requirements.txt                      # Dependencies
+`├── data/                        # Raw and processed dataset`
+`├── models/                      # Trained models`
+├── model_training.ipynb         # Training notebook
+├── predict_mental_health.py/    # predict script
+├── README.md                    # Project documentation
+├── requirements.txt             # Dependencies`
 
-11. Contributing
+## Contributing
 
     Guidelines for contributions (PRs, issues, discussions).
 
-12. License
+## License
 
     Mention the project's license (MIT, Apache, etc.).
 
-13. Acknowledgments
+## Acknowledgments
 
     Credit any datasets, libraries, or contributors.
 
-14. Contact & Support
+## Contact & Support
 
     Provide contact details for issues or collaboration.
