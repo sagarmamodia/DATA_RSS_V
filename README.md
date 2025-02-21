@@ -45,12 +45,14 @@ Provide a summary of hyperparameters and training settings.
 
 ## Project Structure
 
-`├── data/                        # Raw and processed dataset`
-`├── models/                      # Trained models`
+```
+├── data/                        # Raw and processed dataset
+├── models/                      # Trained models
 ├── model_training.ipynb         # Training notebook
 ├── predict_mental_health.py/    # predict script
 ├── README.md                    # Project documentation
-├── requirements.txt             # Dependencies`
+├── requirements.txt             # Dependencies
+```
 
 ## Contributing
 
