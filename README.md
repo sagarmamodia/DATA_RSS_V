@@ -31,8 +31,8 @@ Multiple models were trained on the data - XGBoost, SVM, LogisticRegression and 
 
 ## Results & Visualizations
 
-    Sample Data:
-        Age: 
+    ![Uploading image.png…]()
+
 
 ## Project Structure
 
