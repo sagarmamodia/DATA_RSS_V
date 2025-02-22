@@ -7,15 +7,11 @@ in early detection and awareness.
 
 ## Dataset
 
-Name and source of the dataset used.
-Data preprocessing steps (if any).
-Licensing or usage restrictions (if applicable).
+Remote work and mental health dataset was used to train the models. (https://www.kaggle.com/datasets/iramshahzadi9/remote-work-and-mental-health/). The data consists of 20 features such as Age, Job, etc and about 5000 rows.
 
 ## Model Architecture
 
-Describe the model used (CNN, LSTM, Transformer, etc.).
-Mention any modifications or optimizations made.
-Provide a summary of hyperparameters and training settings.
+Multiple models were trained on the data - XGBoost, SVM, LogisticRegression and KNN. Out of these XGBoost performed best and therefore it was used in the predict_mental_health.py script.
 
 ## Installation
 
