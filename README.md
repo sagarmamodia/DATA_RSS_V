@@ -29,15 +29,10 @@ Multiple models were trained on the data - XGBoost, SVM, LogisticRegression and 
     Model performance summary with tables/graphs (if applicable).
     Comparisons with baseline models.
 
-## Deployment
-
-    Details of how the model is deployed (Flask, FastAPI, Streamlit, etc.).
-    Instructions to run the web app or API.
-
 ## Results & Visualizations
 
-    Sample predictions or outputs.
-    Any relevant visualizations (Confusion matrix, ROC curves, etc.).
+    Sample Data:
+        Age: 
 
 ## Project Structure
 
@@ -50,18 +45,7 @@ Multiple models were trained on the data - XGBoost, SVM, LogisticRegression and 
 ├── requirements.txt             # Dependencies
 ```
 
-## Contributing
-
-    Guidelines for contributions (PRs, issues, discussions).
-
-## License
-
-    Mention the project's license (MIT, Apache, etc.).
 
 ## Acknowledgments
 
-    Credit any datasets, libraries, or contributors.
-
-## Contact & Support
-
-    Provide contact details for issues or collaboration.
+   Thanks to the IIT Roorkee Cognizance team for conducting this competition.
