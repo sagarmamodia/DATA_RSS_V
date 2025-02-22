@@ -24,10 +24,14 @@ Multiple models were trained on the data - XGBoost, SVM, LogisticRegression and 
     
 
 ## Evaluation & Performance
-
-    Metrics used for evaluation (Accuracy, AUC, F1-score, etc.).
-    Model performance summary with tables/graphs (if applicable).
-    Comparisons with baseline models.
+```
+Metric        Value
+---------  --------
+Accuracy   0.353
+Precision  0.352071
+Recall     0.353
+F1 Score   0.351785
+```
 
 ## Sample Predictions
 Sample Data:
