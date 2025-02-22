@@ -31,7 +31,7 @@ Multiple models were trained on the data - XGBoost, SVM, LogisticRegression and 
 
 ## Sample Predictions
     Sample Data:
-    ![image](https://github.com/user-attachments/assets/7e1fb931-5d36-43b6-9e37-a0ec1018392f)
+    ![image](Screenshot 2025-02-22 100414.png)
 
     Predictions:
     ![image](https://github.com/user-attachments/assets/2722bf3f-c9ce-47af-8cda-c9859ca0a070)
