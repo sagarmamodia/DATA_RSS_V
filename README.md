@@ -1,4 +1,4 @@
-## Project Description
+![Screenshot 2025-02-22 100414](https://github.com/user-attachments/assets/6c2c644d-91ec-470a-bfc4-2b4e517ac196)## Project Description
 
 The project utilized various features related to demographics, lifestyle, and psychological factors to assess potential 
 mental health conditions. The model was trained on a labeled dataset and evaluated using metrics like accuracy and AUC.
@@ -31,11 +31,10 @@ Multiple models were trained on the data - XGBoost, SVM, LogisticRegression and 
 
 ## Sample Predictions
     Sample Data:
-    ![image](Screenshot 2025-02-22 100414.png)
+    ![Screenshot 2025-02-22 100414](https://github.com/user-attachments/assets/7e2188e1-ebde-48c8-86f3-cb2bd57306ca)
 
     Predictions:
-    ![image](https://github.com/user-attachments/assets/2722bf3f-c9ce-47af-8cda-c9859ca0a070)
-
+    ![Screenshot 2025-02-22 100429](https://github.com/user-attachments/assets/d0b0bcbe-aec8-4ef2-a555-b93e0828b9fe)
 
 ## Project Structure
 
